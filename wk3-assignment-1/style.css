@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(110, 79, 79);
+    color:rgb(255, 234, 0.2);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color:black
+}
+.highlight {
+    color:rgb(131, 104, 71);
+    border: 2px solid rgb(255, 208, 150);
+}
+#second-paragraph {
+    font-size: 20px;
+    font-weight: bold;
+}
